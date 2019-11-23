@@ -1,0 +1,22 @@
+{
+  "name": "googly-goat-tee",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Unpacked web component",
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {
+      "no-console": "off"
+    },
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  }
+}
